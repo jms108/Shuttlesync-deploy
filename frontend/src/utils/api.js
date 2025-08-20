@@ -1,4 +1,4 @@
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:8080';
+const API_BASE_URL = https://shuttlesync-vercel-deploy.vercel.app/ ;
 
 const handleResponse = async (response) => {
     const data = await response.json();
